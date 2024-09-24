@@ -4,6 +4,8 @@ ENV/
 env/
 .venv/
 .pyenv/
+charts/ev_charts/
+web_server/ev_web_server
 
 # Ignorar archivos de caché
 __pycache__/
